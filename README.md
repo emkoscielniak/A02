@@ -1,10 +1,39 @@
 # A02
-<h1> How to Use Visual Studio Code </h1>
-<p>
-    <ol>
-        <li> </li>
-    </ol>
-</p>
+<h1> How to Use Visual Studio Code with Git and Github </h1>
+    <h2> Setting up GitHub </h2>
+    <p> 
+            <ol>
+                <li> Open the <a href = 'https://github.com/'> GitHub website</a>. </li>
+                <li> Log into your account. If you do not have one, you will click the "Sign Up for GitHub" button and follow the directions provided. </li>
+                <li> Once you are logged into your GitHub account, you will make a repository. Start by clicking the "Repositories" tab in the navigation bar and pressing the "New" button. </li>
+                <li> In "Repository name," type "A02" and make your repository public. </li>
+                <li> Click the checkbox for "Add a README file." </li>
+                <li> Click the "Create repository" button, and now you have a repository. </li>
+            </ol>
+        </p>    
+    <h2> Installing Visual Studio Code </h2>
+        <p> 
+            <ol>
+                <li> Navigate to Visual Studio Code's <a href = 'https://code.visualstudio.com/download'>"Download" page </a> </li>
+                <li> Click on the download button that corresponds to your machine's operating system. </li>
+                <li> Once it's installed, open the program. </li>
+                <li> Click on the Extensions button, which is the fourth icon on the left sidebar and search "GitHub CodeSpaces". </li>
+                <li> Install the extension to your Visual Studio Code. Now you'll be able to clone a repository from your GitHub. </li>
+            </ol>
+        </p>    
+    <h2> Connecting your GitHub and Visual Studio Code </h2>
+        <p> 
+            <ol>
+                <li> </li>
+                <li> </li>
+                <li> </li>
+                <li> </li>
+                <li> </li>
+                <li> </li>
+            </ol>
+        </p>  
+    
+
 <h1> Glossary </h1>
 <p>
     <ul>
