@@ -24,12 +24,13 @@
     <h2> Connecting your GitHub and Visual Studio Code </h2>
         <p> 
             <ol>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
+                <li> In Visual Studio Code, go to your "Source Control" tab, which is the second icon in the left sidebar. </li>
+                <li> Click the "Clone Repository" button and verify your GitHub account by logging in.</li>
+                <li> Once your account is verified, select a repository to clone. In this instance, you will select "A02".</li>
+                <li> Go into your README file and input any relevant information you see fit. Make sure you <em> SAVE</em> your file!!!  </li>
+                <li> Now you're going to commit and push the file by going back to the "Source Control" tab. </li>
+                <li> Input a message relevant to the additions and/or modifications made to your file and then press the "Commit & Push" button. </li>
+                <li> Now when you go back to your repository on GitHub, it will reflect the changes you made to the README file on your local machine! </li>
             </ol>
         </p>  
     
